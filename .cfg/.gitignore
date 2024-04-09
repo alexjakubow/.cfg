@@ -1,0 +1,35 @@
+### Directories ###
+output/
+scratch/
+
+
+### System Files ###
+*.DS_Store
+*.log
+*.aux
+*.tmp
+
+
+### R ###
+.Rhistory
+.Rapp.history
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.utf8.md
+*.knit.md
+.Renviron
+
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+
+### Stata ###
+*.gph
+*.smcl
+*.stpr
+*.stsem
